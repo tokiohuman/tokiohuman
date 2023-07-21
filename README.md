@@ -1,16 +1,32 @@
-### Hi there 👋
+<a name="readme-top"></a>
 
-<!--
-**tokiohuman/tokiohuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<div align="center">
+  <a href="https://twitter.com/daaneki">
+    <img src="https://cdn.discordapp.com/attachments/892408570627375135/1131846507813929080/de80d66ba47e11734db06d7549701099.png" alt="asd" width="250" height="250">
+  </a>
 
-Here are some ideas to get you started:
+  <h3 align="center">Daneki</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    Hola! Soy Dan un Diseñador de paginas webs y desarollador de bots de Discord con lenguajes como: JavaScript, TypeScript y Python actualmente trabajo en mi proyecto principal, un bot de Discord multifuncional y eficaz en la configuración de servidores.
+    <br />
+  </p>
+</div>
+
+## Lenguajes de Programación
+
+> [![Node.Js](https://img.shields.io/badge/Node.JS-305dff?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()<br/>
+> [![JavaScript](https://img.shields.io/badge/JavaScript-305dff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
+> [![Python](https://img.shields.io/badge/Python-305dff?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br/>
+
+## Redes Sociales
+> [![Twitter](https://img.shields.io/badge/Daaneki-305dff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)]()<br/>
+> [![Instagram](https://img.shields.io/badge/Tokiohuman-305dff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()<br/>
+
+## Proyectos
+- [𒉭]() - Aún un no hay nada aqui.
+- [𒉭]() - Aún un no hay nada aqui.
+- [𒉭]() - Aún un no hay nada aqui.
+- [𒉭]() - Aún un no hay nada aqui.
+- [𒉭]() - Aún un no hay nada aqui.
