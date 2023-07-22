@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://twitter.com/daaneki">
-    <img src="https://cdn.discordapp.com/attachments/892408570627375135/1132100318847586395/DEEPER__Photo.gif" alt="asd" width="1280" height="720">
+    <img src="https://cdn.discordapp.com/attachments/892408570627375135/1132100318847586395/DEEPER__Photo.gif" alt="asd" width="500" height="500">
   </a>
 
   <h3 align="center">Daneki</h3>
