@@ -16,22 +16,35 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCeFkHkgauRKczRWdsOzwjKA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="90" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/tokiohuman" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="90" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tokiohuman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
+  <a href="https://open.spotify.com/user/dpw93wnm0bh26mgqdldub06cr">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dpw93wnm0bh26mgqdldub06cr&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dpw93wnm0bh26mgqdldub06cr&count={10})
+<br clear="both">
 
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCeFkHkgauRKczRWdsOzwjKA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="88" height="44" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/tokiohuman" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="88" height="44" alt="twitch logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tokiohuman/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="88" height="44" alt="linkedin logo"  />
+  </a>
+</div>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tokiohuman&label=Profile%20Views&color=12&icon=0&pretty=true" />
+</a>
+
+###
 ###
 ## Lenguajes de Programación
 
