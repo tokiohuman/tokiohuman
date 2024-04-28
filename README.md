@@ -1,19 +1,38 @@
-<a name="readme-top"></a>
-
-<br />
 <div align="center">
-  <a href="https://twitter.com/daaneki">
-    <img src="https://cdn.discordapp.com/attachments/892408570627375135/1132100318847586395/DEEPER__Photo.gif" alt="asd" width="250" height="250">
-  </a>
-
-  <h3 align="center">Daneki</h3>
-
-  <p align="center">
-    Hola! Soy Dan un Diseñador de paginas webs y desarollador de bots de Discord con lenguajes como: JavaScript, TypeScript y Python actualmente trabajo en mi proyecto principal, un bot de Discord multifuncional y eficaz en la configuración de servidores.
-    <br />
-  </p>
+  <img height="300" src="https://media.discordapp.net/attachments/892408570627375135/1234057162914009149/68747470733a2f2f692e696d6775722e636f6d2f33576e393167302e706e67.jpg?ex=662f58cb&is=662e074b&hm=027bdd1fd1b4ec3d2f4f8e5590981fdff1873e1c0fee074d58dec7ef02a72bd8&=&format=webp&width=1440&height=468"  />
 </div>
 
+###
+
+<br clear="both">
+
+<h3 align="center">Hi there! I'm Dan Garcia.</h3>
+
+###
+
+<br clear="both">
+
+<p align="center">I'm a passionate Computer Science student with a keen interest in software development and technology. My GitHub repository showcases some of my projects, which range from simple console applications to other more complex applications. I am always eager to collaborate with other developers and contribute to open-source projects, as I believe that teamwork and knowledge-sharing are crucial for personal and professional growth. If you have any questions, suggestions, or ideas for collaboration, feel free to reach out to me.</p>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCeFkHkgauRKczRWdsOzwjKA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="90" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/tokiohuman" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="90" height="40" alt="twitch logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tokiohuman/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<p align="center">w</p>
+
+###
 ## Lenguajes de Programación
 
 > [![Node.Js](https://img.shields.io/badge/Node.JS-305dff?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()<br/>
