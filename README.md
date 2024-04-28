@@ -30,7 +30,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dpw93wnm0bh26mgqdldub06cr&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dpw93wnm0bh26mgqdldub06cr&count={10})
 
 ###
 ## Lenguajes de Programación
