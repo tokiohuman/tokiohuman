@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center">w</p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dpw93wnm0bh26mgqdldub06cr&count={count})
 
 ###
 ## Lenguajes de Programación
