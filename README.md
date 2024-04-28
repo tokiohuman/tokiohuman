@@ -40,25 +40,9 @@
   </a>
 </div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=tokiohuman&label=Profile%20Views&color=12&icon=0&pretty=true" />
-</a>
+<div style="text-align: center;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=tokiohuman&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  </a>
+</div>
 
-###
-###
-## Lenguajes de Programación
-
-> [![Node.Js](https://img.shields.io/badge/Node.JS-305dff?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()<br/>
-> [![JavaScript](https://img.shields.io/badge/JavaScript-305dff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
-> [![Python](https://img.shields.io/badge/Python-305dff?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br/>
-
-## Redes Sociales
-> [![Twitter](https://img.shields.io/badge/Daaneki-305dff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)]()<br/>
-> [![Instagram](https://img.shields.io/badge/Tokiohuman-305dff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()<br/>
-
-## Proyectos
-- [𒉭]() - Aún un no hay nada aqui.
-- [𒉭]() - Aún un no hay nada aqui.
-- [𒉭]() - Aún un no hay nada aqui.
-- [𒉭]() - Aún un no hay nada aqui.
-- [𒉭]() - Aún un no hay nada aqui.
